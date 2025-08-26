@@ -1,7 +1,7 @@
 # Rest API with Flask and Python (Learn on Udemy)
 I started learning about building REST APIs with Flask and Python on Udemy, motivated by my goal of creating an affiliate website. I chose to store data on a VPS because shared hosting doesn't allow for processing by Python. My aim was to build a custom database to store extensive product details scraped from Amazon and other websites for affiliate marketing. I wanted to develop REST APIs to make this data accessible for website integration.
 
-I enrolled in the "REST APIs with Flask and Python" course by Jose Salvatierra on Udemy. Although I began as an amateur, my technical background in Mechanical Engineering and basic coding skills helped me learn quickly. 
+I enrolled in the "REST APIs with Flask and Python" course by Jose Salvatierra on Udemy. Although I began as an amateur, my technical background in Mechanical Engineering and strong coding skills helped me learn quickly. 
 ## With relentless effort, I achieved several milestones:
 
 - Successfully created and managed a database.
@@ -19,7 +19,7 @@ I enrolled in the "REST APIs with Flask and Python" course by Jose Salvatierra o
 
 ## Challenges:
 - Incomplete website development (front end pending). The website hasn't been completed until now.
-- Balancing the learning curve of both front-end and back-end development, with limited API knowledge.
+- Balancing the learning curve of both front-end and back-end development.
 - Managing high maintenance and operational costs.
 
 ### The Rest API with endpoint /strore 
