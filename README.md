@@ -13,6 +13,7 @@ I enrolled in the "REST APIs with Flask and Python" course by Jose Salvatierra o
 ## Skills I learned:
 - Coding Skills
 - Problem-solving.
+- Best practice in OOP principles.
 - Understanding data relationships.
 - Developing REST APIs with Flask and Python.
 - Deploying APIs on a VPS.
